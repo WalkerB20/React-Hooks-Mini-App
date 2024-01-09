@@ -19,7 +19,9 @@ The D&D Character Creator is a web-based application that allows users to create
 To run this project, install it locally using npm:
 
 $ cd ../character-creator
+
 $ npm install
+
 $ npm start
 
 ## Usage
